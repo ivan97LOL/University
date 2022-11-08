@@ -1,0 +1,96 @@
+Enter hero name: Enter attack/defense: [Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 0 + 90
+Defense: 80 + 30
+Hit points: 0
+Enemy health points: 160
+[Enemy -> Hero]
+Attack: 60 + 65
+Defense: 200 + 65
+Hit points: 0
+Hero health points: 400
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: wrong option
+
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Dragon
+Attack: 160
+Defense: 140
+Health points: 280
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: 

@@ -1,0 +1,49 @@
+Enter hero name: Enter attack/defense: [Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 50 + 90
+Defense: 80 + 30
+Hit points: 30
+Enemy health points: 130
+[Enemy -> Hero]
+Attack: 60 + 65
+Defense: 150 + 65
+Hit points: 0
+Hero health points: 300
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Ada Lovelace
+Attack: 50
+Defense: 150
+Health points: 300
+Special: yes
+Runaways: 3
+Exp: 0
+Enemies killed:
+- Axolotl: 0
+- Troll: 0
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 0
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: 

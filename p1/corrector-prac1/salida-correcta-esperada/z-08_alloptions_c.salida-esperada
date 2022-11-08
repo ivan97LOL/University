@@ -1,0 +1,166 @@
+Enter hero name: Enter attack/defense: [Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 90
+Defense: 80 + 30
+Hit points: 0
+Enemy health points: 160
+[Enemy -> Hero]
+Attack: 60 + 65
+Defense: 180 + 65
+Hit points: 0
+Hero health points: 360
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Dragon
+Attack: 160
+Defense: 140
+Health points: 280
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 45
+Defense: 140 + 15
+Hit points: 0
+Enemy health points: 280
+[Enemy -> Hero]
+Attack: 160 + 55
+Defense: 180 + 10
+Hit points: 25
+Hero health points: 335
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Rodolfo Langostino
+Attack: 20
+Defense: 180
+Health points: 335
+Special: no
+Runaways: 2
+Exp: 0
+Enemies killed:
+- Axolotl: 0
+- Troll: 0
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 0
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Axolotl
+Attack: 40
+Defense: 40
+Health points: 80
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: special not available
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 95
+Defense: 40 + 5
+Hit points: 70
+Enemy health points: 10
+[Enemy -> Hero]
+Attack: 40 + 50
+Defense: 180 + 10
+Hit points: 0
+Hero health points: 335
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Rodolfo Langostino
+Attack: 20
+Defense: 180
+Health points: 335
+Special: no
+Runaways: 1
+Exp: 0
+Enemies killed:
+- Axolotl: 0
+- Troll: 0
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 0
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Dragon
+Attack: 160
+Defense: 140
+Health points: 280
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Rodolfo Langostino
+Attack: 20
+Defense: 180
+Health points: 335
+Special: no
+Runaways: 0
+Exp: 0
+Enemies killed:
+- Axolotl: 0
+- Troll: 0
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 0
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: 

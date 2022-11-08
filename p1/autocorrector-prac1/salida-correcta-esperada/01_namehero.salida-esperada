@@ -1,0 +1,13 @@
+Enter hero name: ERROR: wrong name
+Enter hero name: Enter attack/defense: [Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: 

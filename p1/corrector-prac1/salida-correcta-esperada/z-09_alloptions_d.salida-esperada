@@ -1,0 +1,150 @@
+Enter hero name: Enter attack/defense: [Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 90
+Defense: 80 + 30
+Hit points: 0
+Enemy health points: 160
+[Enemy -> Hero]
+Attack: 60 + 65
+Defense: 180 + 65
+Hit points: 0
+Hero health points: 360
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 285
+Defense: 80 + 15
+Hit points: 210
+Enemy health points: 0
+Enemy killed
+[Enemy]
+Breed: Axolotl
+Attack: 40
+Defense: 40
+Health points: 80
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Rodolfo Langostino
+Attack: 20
+Defense: 180
+Health points: 360
+Special: no
+Runaways: 2
+Exp: 150
+Enemies killed:
+- Axolotl: 0
+- Troll: 1
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 1
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: ERROR: cannot run away
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 10
+Defense: 80 + 15
+Hit points: 0
+Enemy health points: 160
+[Enemy -> Hero]
+Attack: 60 + 95
+Defense: 180 + 5
+Hit points: 0
+Hero health points: 360
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 20 + 10
+Defense: 80 + 100
+Hit points: 0
+Enemy health points: 160
+[Enemy -> Hero]
+Attack: 60 + 5
+Defense: 180 + 85
+Hit points: 0
+Hero health points: 360
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Rodolfo Langostino
+Attack: 20
+Defense: 180
+Health points: 360
+Special: no
+Runaways: 1
+Exp: 150
+Enemies killed:
+- Axolotl: 0
+- Troll: 1
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 1
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: 

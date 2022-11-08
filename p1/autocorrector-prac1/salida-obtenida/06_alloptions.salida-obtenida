@@ -1,0 +1,78 @@
+Enter hero name: Enter attack/defense: [Enemy]
+Breed: Troll
+Attack: 60
+Defense: 80
+Health points: 160
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 180 + 270
+Defense: 80 + 30
+Hit points: 340
+Enemy health points: 0
+Enemy killed
+[Enemy]
+Breed: Orc
+Attack: 80
+Defense: 120
+Health points: 240
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: You run away
+[Enemy]
+Breed: Orc
+Attack: 80
+Defense: 120
+Health points: 240
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Hero -> Enemy]
+Attack: 180 + 95
+Defense: 120 + 15
+Hit points: 140
+Enemy health points: 100
+[Enemy -> Hero]
+Attack: 80 + 15
+Defense: 20 + 55
+Hit points: 20
+Hero health points: 20
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: [Report]
+Name: Loquillo el Troglodita
+Attack: 180
+Defense: 20
+Health points: 20
+Special: no
+Runaways: 2
+Exp: 150
+Enemies killed:
+- Axolotl: 0
+- Troll: 1
+- Orc: 0
+- Hellhound: 0
+- Dragon: 0
+- Total: 1
+[Options]
+1- Fight
+2- Run away
+3- Special
+4- Report
+q- Quit
+Option: 
