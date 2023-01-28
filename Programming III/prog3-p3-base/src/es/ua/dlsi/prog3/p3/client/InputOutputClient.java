@@ -40,8 +40,8 @@ class MouseTracker implements Runnable {
 	
 	int linesPrinted;
 	
-	private static final String CSI="\033["; // CSI: Control Sequence Introducer
-	private static final String CURSOR_HOME="\033[H"; // Cursor home
+	private static final String CSI = "\033["; // CSI: Control Sequence Introducer
+	private static final String CURSOR_HOME = "\033[H"; // Cursor home
 
 	/**
 	 * Creates a MouseTracker process
@@ -49,9 +49,9 @@ class MouseTracker implements Runnable {
 	 * @param display The display device to use for displaying
 	 */
 	public MouseTracker(Mouse mouse, Display display ) {
-		this.mouse=mouse;
-		this.display=display;
-		this.linesPrinted=0;
+		this.mouse = mouse;
+		this.display = display;
+		this.linesPrinted = 0;
 	}
 
 	
@@ -124,8 +124,8 @@ class MouseTracker implements Runnable {
 		while (true) {
 			if(Thread.interrupted()) 
                 return;
-			pinfo =  MouseInfo.getPointerInfo();
-			point =  pinfo.getLocation();
+			pinfo = MouseInfo.getPointerInfo();
+			point = pinfo.getLocation();
 			
 			// scale to [0..1]
 			x = point.x/(double)width;
